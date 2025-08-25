@@ -1,0 +1,22 @@
+{
+  "short_name": "PianoKids",
+  "name": "Piano Kids – Ebook interactif",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#f5f5fa",
+  "display": "standalone",
+  "scope": ".",
+  "theme_color": "#ffd700",
+  "description": "Ebook interactif piano pour enfants"
+}
